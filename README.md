@@ -55,6 +55,5 @@ This project was built to practice Python fundamentals, user input handling, var
 ## Author
 
 Pragati
-## 👨‍💻 Author
 
-Pragati
+
